@@ -1,10 +1,9 @@
 # 📂 Automatic File Sorter
+
 ## Description
-A short explanation of what this script does, why it’s useful, and how it works at a high level.
+Automatically organizes files into categorized subfolders based on their file extensions.
 
 ## Code
-
-
 ```bash
 #!/bin/bash
 # Automatic File Sorter
@@ -47,6 +46,5 @@ for file in "$DIR"/*; do
 done
 
 echo "Organization complete!"
-# ...
 ```
 
