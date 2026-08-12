@@ -133,11 +133,8 @@ Small, handy tools for everyday tasks.
 
 </details>
 
-<table>
-<tr>
-<td style="border-bottom: 1px solid #30363d;"></td>
-</tr>
-</table>
+---
+
 <p align="center">
   Made with 🐚 as part of my Cloud DevOps learning path.
 </p>
