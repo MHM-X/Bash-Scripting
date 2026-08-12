@@ -133,7 +133,7 @@ Small, handy tools for everyday tasks.
 
 </details>
 
----
+<hr style="height: 1px; border: none; background-color: #30363d;">
 
 <p align="center">
   Made with 🐚 as part of my Cloud DevOps learning path.
