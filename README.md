@@ -20,7 +20,7 @@ Scripts for organizing, cleaning, and manipulating files and directories.
 
 | # | Script | Description |
 |---|--------|-------------|
-| 01 | [Automatic File Sorter](File-Management-Projects/01-automatic-file-sorter.md) | Renames multiple files at once based on a pattern |
+| 01 | [Automatic File Sorter](File-Management-Projects/01-automatic-file-sorter.md) | Organizes files into folders based on their extensions |
 | 02 | [Duplicate File Finder](File-Management-Projects/02-duplicate-file-finder.md) | Scans a directory and finds duplicate files |
 | 03 | [File Backup Script](File-Management-Projects/03-file-backup-script.md) | Creates timestamped backups of files/folders |
 | 04 | [Directory Organizer](File-Management-Projects/04-directory-organizer.md) | Sorts files into folders based on their extension |
