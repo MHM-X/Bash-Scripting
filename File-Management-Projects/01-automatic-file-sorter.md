@@ -4,7 +4,6 @@ A short explanation of what this script does, why it’s useful, and how it work
 
 ## Code
 
-<div align="right">
 
 ```bash
 #!/bin/bash
@@ -48,5 +47,6 @@ for file in "$DIR"/*; do
 done
 
 echo "Organization complete!"
-
+# ...
+```
 
