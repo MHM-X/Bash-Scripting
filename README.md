@@ -133,8 +133,11 @@ Small, handy tools for everyday tasks.
 
 </details>
 
-<hr style="height: 1px; border: none; background-color: #30363d;">
-
+<table>
+<tr>
+<td style="border-bottom: 1px solid #30363d;"></td>
+</tr>
+</table>
 <p align="center">
   Made with 🐚 as part of my Cloud DevOps learning path.
 </p>
