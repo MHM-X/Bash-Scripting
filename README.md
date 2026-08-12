@@ -133,6 +133,8 @@ Small, handy tools for everyday tasks.
 
 </details>
 
+---
+
 <p align="center">
   Made with 🐚 as part of my Cloud DevOps learning path.
 </p>
