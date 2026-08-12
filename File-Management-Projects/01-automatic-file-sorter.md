@@ -1,10 +1,8 @@
 # 📂 Automatic File Sorter
-## 📖 Description
+## Description
 A short explanation of what this script does, why it’s useful, and how it works at a high level.
 
----
-
-## 💻 Code
+## Code
 
 <div align="right">
 
