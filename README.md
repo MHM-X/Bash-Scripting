@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scripts-60-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Topics-6-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" />
-</p>
-
 <h1 align="center">🐚 Bash Scripting Journey</h1>
 
 <p align="center">
@@ -17,18 +10,6 @@
   Click any title below to open it.
 </p>
 
----
-
-## 📊 Overview
-
-| | |
-|---|---|
-| **Total Scripts** | 60 |
-| **Categories** | 6 |
-| **Scripts per Category** | 10 |
-| **Language** | Bash |
-
----
 
 ## 📚 Categories
 
@@ -151,21 +132,6 @@ Small, handy tools for everyday tasks.
 | 10 | [Interactive Menu Tool](Utility-Projects/10-interactive-menu-tool.md) | A simple menu-driven interface for running tasks |
 
 </details>
-
----
-
-## 🗂️ Repository Structure
-
-```text
-.
-├── README.md
-├── File-Management-Projects/
-├── System-Administration-Projects/
-├── Text-Processing-Projects/
-├── Networking-Projects/
-├── Automation-Projects/
-└── Utility-Projects/
-```
 
 ---
 
