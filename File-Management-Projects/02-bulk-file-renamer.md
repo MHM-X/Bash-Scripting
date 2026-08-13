@@ -1,4 +1,4 @@
-# 📂 Automatic File Sorter
+# 📂 Bulk File Renamer
 
 ## Description
 Automatically organizes files into categorized subfolders based on their file extensions.
