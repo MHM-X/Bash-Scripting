@@ -21,15 +21,15 @@ Scripts for organizing, cleaning, and manipulating files and directories.
 | # | Script | Description |
 |---|--------|-------------|
 | 01 | [Automatic File Sorter](File-Management-Projects/01-automatic-file-sorter.md) | Organizes files into folders based on their extensions |
-| 02 | [Duplicate File Finder](File-Management-Projects/02-duplicate-file-finder.md) | Scans a directory and finds duplicate files |
-| 03 | [File Backup Script](File-Management-Projects/03-file-backup-script.md) | Creates timestamped backups of files/folders |
-| 04 | [Directory Organizer](File-Management-Projects/04-directory-organizer.md) | Sorts files into folders based on their extension |
-| 05 | [Old Files Cleaner](File-Management-Projects/05-old-files-cleaner.md) | Deletes files older than a given number of days |
-| 06 | [File Compressor](File-Management-Projects/06-file-compressor.md) | Compresses files/folders into archives |
-| 07 | [Directory Size Reporter](File-Management-Projects/07-directory-size-reporter.md) | Reports the size of each folder in a directory |
-| 08 | [Find & Replace Tool](File-Management-Projects/08-find-replace-tool.md) | Searches for files by name pattern and renames/moves them |
-| 09 | [Recent Files Tracker](File-Management-Projects/09-recent-files-tracker.md) | Lists files modified within the last N days |
-| 10 | [File Permission Manager](File-Management-Projects/10-file-permission-manager.md) | Batch-updates file/folder permissions |
+| 02 | [Bulk File Renamer](File-Management-Projects/02-bulk-file-renamer.md) | Scans a directory and finds duplicate files |
+| 03 | [Duplicate File Finder](File-Management-Projects/03-duplicate-file-finder.md) | Creates timestamped backups of files/folders |
+| 04 | [File Backup System](File-Management-Projects/04-file-backup-system.md) | Sorts files into folders based on their extension |
+| 05 | [Disk Space Analyzer](File-Management-Projects/05-disk-space-analyzer.md) | Deletes files older than a given number of days |
+| 06 | [File Encryption Tool](File-Management-Projects/06-file-encryption-tool.md) | Compresses files/folders into archives |
+| 07 | [Version Control Helper](File-Management-Projects/07-version-control-helper.md) | Reports the size of each folder in a directory |
+| 08 | [File Sync Utility](File-Management-Projects/08-file-sync-utility.md) | Searches for files by name pattern and renames/moves them |
+| 09 | [Archive Manager](File-Management-Projects/09-archive-manager.md) | Lists files modified within the last N days |
+| 10 | [File Metadata Editor](File-Management-Projects/10-file-metadata-editor.md) | Batch-updates file/folder permissions |
 
 </details>
 
@@ -41,8 +41,8 @@ Scripts for monitoring and managing the system.
 | # | Script | Description |
 |---|--------|-------------|
 | 01 | [System Health Monitor](System-Administration-Projects/01-system-health-monitor.md) | Checks CPU, memory, and disk usage at a glance |
-| 02 | [Disk Usage Alert](System-Administration-Projects/02-disk-usage-alert.md) | Sends an alert when disk usage crosses a threshold |
-| 03 | [User Account Manager](System-Administration-Projects/03-user-account-manager.md) | Adds, removes, or updates system users |
+| 02 | [Automated Backup Solution](System-Administration-Projects/02-automated-backup-solution.md) | Sends an alert when disk usage crosses a threshold |
+| 03 | [Log File Analyzer](System-Administration-Projects/03-log-file-analyzer.md) | Adds, removes, or updates system users |
 | 04 | [Service Status Checker](System-Administration-Projects/04-service-status-checker.md) | Checks whether key services are running |
 | 05 | [System Update Automator](System-Administration-Projects/05-system-update-automator.md) | Automates package updates and upgrades |
 | 06 | [Log Rotation Script](System-Administration-Projects/06-log-rotation-script.md) | Archives and rotates log files |
