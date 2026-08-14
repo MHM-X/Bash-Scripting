@@ -1,0 +1,147 @@
+# 📂 Service Restart Automation
+## Description
+Automatically organizes files into categorized subfolders based on their file extensions.
+
+## Code
+```bash
+#!/bin/bash
+
+# Service Restart Automation
+
+# ---------- Configuration ----------
+
+LOG_FILE="/var/log/service-monitor.log"
+
+MAX_RESTARTS=3
+
+CHECK_INTERVAL=30
+
+SERVICES=(
+    nginx
+    ssh
+)
+
+
+# ---------- Logging ----------
+
+log_message() {
+
+    local message="$1"
+
+    echo "$(date '+%Y-%m-%d %H:%M:%S') - $message" | tee -a "$LOG_FILE"
+}
+
+
+# ---------- Check Service ----------
+
+is_service_active() {
+
+    local service="$1"
+
+    systemctl is-active --quiet "$service"
+}
+
+
+# ---------- Restart Service ----------
+
+restart_service() {
+
+    local service="$1"
+
+    log_message "Service '$service' is down. Attempting restart."
+
+    if systemctl restart "$service"; then
+
+        log_message "Service '$service' restarted successfully."
+
+        return 0
+
+    else
+
+        log_message "Failed to restart service '$service'."
+
+        return 1
+    fi
+}
+
+
+# ---------- Monitor Service ----------
+
+monitor_service() {
+
+    local service="$1"
+    local restart_count=0
+
+    log_message "Monitoring service '$service'."
+
+
+    while true; do
+
+        if is_service_active "$service"; then
+
+            log_message "Service '$service' is running."
+
+            restart_count=0
+
+        else
+
+            log_message "WARNING: Service '$service' is not running."
+
+            if (( restart_count < MAX_RESTARTS )); then
+
+                restart_service "$service"
+
+                ((restart_count++))
+
+            else
+
+                log_message \
+                    "CRITICAL: Service '$service' failed repeatedly."
+
+                send_notification "$service"
+
+                restart_count=0
+            fi
+
+        fi
+
+        sleep "$CHECK_INTERVAL"
+
+    done
+}
+
+
+# ---------- Notification ----------
+
+send_notification() {
+
+    local service="$1"
+
+    local message="CRITICAL: Service '$service' keeps failing."
+
+    log_message "NOTIFICATION: $message"
+
+    # Example notification:
+    # mail -s "Service Failure: $service" admin@example.com <<< "$message"
+}
+
+
+# ---------- Main ----------
+main() {
+
+    if [[ $EUID -ne 0 ]]; then
+        echo "Error: This script must be run as root."
+        exit 1
+    fi
+
+    log_message "Service monitor started."
+
+    for service in "${SERVICES[@]}"; do
+        monitor_service "$service" &
+    done
+
+    wait
+}
+
+main
+```
