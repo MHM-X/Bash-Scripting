@@ -1,6 +1,6 @@
 # 📂 Network Protocol Analyzer
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
+A basic program to capture and analyze network traffic. Identify common protocols and provide summaries of captured data. Include basic packet filtering options.
 
 ## Code
 ```bash
