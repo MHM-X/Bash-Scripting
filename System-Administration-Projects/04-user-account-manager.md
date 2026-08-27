@@ -1,7 +1,7 @@
 
 # 📂 User Account Manager
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
+A script to add, remove, and modify user accounts easily. Include features for setting permissions, managing groups, and enforcing password rules.
 
 ## Code
 ```bash
