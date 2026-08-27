@@ -1,6 +1,6 @@
 # 📂 Text-based Diff tool
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
+A program to show the differences between two text files. Highlight changes, additions, and deletions, and offer a side-by-side comparison view.
 
 ## Code
 ```bash
