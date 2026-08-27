@@ -1,7 +1,6 @@
 # 📂 Website Availability Checker
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
-
+A tool to monitor websites and alert them if they become unavailable. Include response time tracking and support for checking specific page elements or content.
 ## Code
 ```bash
 #!/bin/bash
