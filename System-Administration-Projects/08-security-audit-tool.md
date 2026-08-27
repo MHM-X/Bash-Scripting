@@ -1,6 +1,6 @@
 # 📂 Security Audit Tool
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
+A script to check for common security issues and misconfigurations. Include checks for outdated software, weak passwords, and open ports.
 
 ## Code
 ```bash
