@@ -1,6 +1,6 @@
 # 📂 Batch text replacer
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
+A program to find and replace text across multiple files. Support regular expressions and provide options for backup before making changes.
 
 ## Code
 ```bash
