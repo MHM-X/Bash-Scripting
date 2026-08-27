@@ -1,7 +1,6 @@
 # 📂 Text-based Search Engine
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
-
+A program to search for words or phrases in multiple text files. Implement ranking of results based on relevance and support for boolean search operators.
 ## Code
 ```bash
 #!/bin/bash
