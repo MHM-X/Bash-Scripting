@@ -1,6 +1,6 @@
 # 📂 Network Speed Test
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
+A basic server that allows many users to chat via the command line. Implement private messaging, chat rooms, and basic user authentication.
 
 ## Code
 ```bash
