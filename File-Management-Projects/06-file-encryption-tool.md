@@ -1,8 +1,7 @@
 # 📂 File Encryption Tool
 
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
-
+A script to encrypt and decrypt files using a password. Implement a safe encryption method and handle key management securely.
 ## Code
 ```bash
 #!/usr/bin/env bash
