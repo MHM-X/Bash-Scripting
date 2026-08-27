@@ -1,6 +1,6 @@
 # 📂 Lorem IPSUM Generator
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
+A tool to create custom placeholder text for design projects. Allow users to specify the length of the starting phrase and include options for different languages.
 
 ## Code
 ```bash
