@@ -1,7 +1,7 @@
 # 📂 File Metadata Editor
 
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
+A tool to view and change file metadata like tags or comments. Support various file types and provide a user-friendly interface for editing metadata.
 
 ## Code
 ```bash
