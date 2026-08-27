@@ -61,12 +61,12 @@ Scripts for parsing, transforming, and analyzing text.
 | # | Script | Description |
 |---|--------|-------------|
 | 01 | [Word Counter](Text-Processing-Projects/01-word-counter.md) | Counts words, lines, and characters in a file |
-| 02 | [Text-based Search Engine](Text-Processing-Projects/02-csv-parser.md) | Searches text files using keyword queries with AND, OR, and NOT operators and ranks results by relevance. |
-| 03 | [Code Comment Extractor](Text-Processing-Projects/03-log-file-analyzer.md) | Extracts comments from source code files across multiple programming languages. |
-| 04 | [Lorem Ipsum Generator](Text-Processing-Projects/04-text-file-merger.md) | Generates random placeholder text in multiple languages with a customizable word count. |
-| 05 | [Text-based Diff Tool](Text-Processing-Projects/06-duplicate-line-remover.md) | Compares two text files and highlights their differences, with an optional side-by-side view. |
-| 06 | [Batch Text Replacer](Text-Processing-Projects/09-file-content-comparator.md) | Searches files in a directory and replaces matching text or regular expressions, with optional backups. |
-| 07 | [Text Summarizer](Text-Processing-Projects/10-text-report-generator.md) | Generates a concise summary of a text file by selecting the most relevant sentences. |
+| 02 | [Text-based Search Engine](Text-Processing-Projects/02-text-based-search-engine.md) | Searches text files using keyword queries with AND, OR, and NOT operators and ranks results by relevance. |
+| 03 | [Code Comment Extractor](Text-Processing-Projects/03-code-comment-extractor.md) | Extracts comments from source code files across multiple programming languages. |
+| 04 | [Lorem Ipsum Generator](Text-Processing-Projects/04-lorem-ipsum-generator.md) | Generates random placeholder text in multiple languages with a customizable word count. |
+| 05 | [Text-based Diff Tool](Text-Processing-Projects/05-text-based-diff-tool.md) | Compares two text files and highlights their differences, with an optional side-by-side view. |
+| 06 | [Batch Text Replacer](Text-Processing-Projects/06-batch-text-replacer.md) | Searches files in a directory and replaces matching text or regular expressions, with optional backups. |
+| 07 | [Text Summarizer](Text-Processing-Projects/07-text-summarizer.md) | Generates a concise summary of a text file by selecting the most relevant sentences. |
 
 </details>
 
@@ -77,15 +77,15 @@ Scripts for network diagnostics and monitoring.
 
 | # | Script | Description |
 |---|--------|-------------|
-| 01 | [IP Address Tracker](Networking-Projects/01-port-scanner.md) | Tracks public IP address changes and logs the IP, location, and ISP information. |
+| 01 | [IP Address Tracker](Networking-Projects/01-iP-address-tracker.md) | Tracks public IP address changes and logs the IP, location, and ISP information. |
 | 02 | [Network Speed Tester](Networking-Projects/02-network-speed-tester.md) | Measures ping, download speed, and upload speed, then saves the results to a CSV history file. |
-| 03 | [DNS Lookup Utility](Networking-Projects/03-ip-lookup-tool.md) | Performs forward and reverse DNS lookups and displays the requested DNS records. |
-| 04 | [Ping Sweep Tool](Networking-Projects/04-website-uptime-checker.md) | Scans a local network to find active devices by sending a ping request to each IP address. |
-| 05 | [Website Availability Checker](Networking-Projects/05-ping-sweep.md) | Checks whether a website is available and displays its HTTP status code and response time. |
-| 06 | [Simple Load Balancer](Networking-Projects/06-dns-lookup-tool.md) | Distributes requests across multiple backend servers using a simple round-robin strategy. |
+| 03 | [DNS Lookup Utility](Networking-Projects/03-dns-lookup-utility.md) | Performs forward and reverse DNS lookups and displays the requested DNS records. |
+| 04 | [Ping Sweep Tool](Networking-Projects/04-ping-sweep-tool.md) | Scans a local network to find active devices by sending a ping request to each IP address. |
+| 05 | [Website Availability Checker](Networking-Projects/05-website-availability-checker.md) | Checks whether a website is available and displays its HTTP status code and response time. |
+| 06 | [Simple Load Balancer](Networking-Projects/06-simple-load-balancer.md) | Distributes requests across multiple backend servers using a simple round-robin strategy. |
 | 07 | [Bandwidth Monitor](Networking-Projects/07-bandwidth-monitor.md) | Monitors network interface traffic and displays received and transmitted bandwidth usage in real time. |
 | 08 | [SSH Connection Manager](Networking-Projects/08-ssh-connection-manager.md) | Manages saved SSH servers and provides options to add, list, connect to, and delete server configurations. |
-| 09 | [Network Protocol Analyzer](Networking-Projects/09-network-interface-reporter.md) | Captures network traffic and identifies common protocols such as TCP, UDP, ICMP, and ARP. |
+| 09 | [Network Protocol Analyzer](Networking-Projects/09-network-protocol-analyzer.md) | Captures network traffic and identifies common protocols such as TCP, UDP, ICMP, and ARP. |
 
 </details>
 
