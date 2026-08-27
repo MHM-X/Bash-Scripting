@@ -61,15 +61,12 @@ Scripts for parsing, transforming, and analyzing text.
 | # | Script | Description |
 |---|--------|-------------|
 | 01 | [Word Counter](Text-Processing-Projects/01-word-counter.md) | Counts words, lines, and characters in a file |
-| 02 | [CSV Parser](Text-Processing-Projects/02-csv-parser.md) | Extracts and processes data from CSV files |
-| 03 | [Log File Analyzer](Text-Processing-Projects/03-log-file-analyzer.md) | Scans log files for errors or patterns |
-| 04 | [Text File Merger](Text-Processing-Projects/04-text-file-merger.md) | Merges multiple text files into one |
-| 05 | [Batch Find & Replace](Text-Processing-Projects/05-batch-find-replace.md) | Replaces text across multiple files at once |
-| 06 | [Duplicate Line Remover](Text-Processing-Projects/06-duplicate-line-remover.md) | Removes duplicate lines from a text file |
-| 07 | [Text Case Converter](Text-Processing-Projects/07-text-case-converter.md) | Converts text to upper/lower/title case |
-| 08 | [Regex Extractor](Text-Processing-Projects/08-regex-extractor.md) | Extracts matching patterns (emails, IPs, etc.) from text |
-| 09 | [File Content Comparator](Text-Processing-Projects/09-file-content-comparator.md) | Compares two files and shows the differences |
-| 10 | [Text Report Generator](Text-Processing-Projects/10-text-report-generator.md) | Generates a formatted summary report from text data |
+| 02 | [Text-based Search Engine](Text-Processing-Projects/02-csv-parser.md) | Searches text files using keyword queries with AND, OR, and NOT operators and ranks results by relevance. |
+| 03 | [Code Comment Extractor](Text-Processing-Projects/03-log-file-analyzer.md) | Extracts comments from source code files across multiple programming languages. |
+| 04 | [Lorem Ipsum Generator](Text-Processing-Projects/04-text-file-merger.md) | Generates random placeholder text in multiple languages with a customizable word count. |
+| 05 | [Text-based Diff Tool](Text-Processing-Projects/06-duplicate-line-remover.md) | Compares two text files and highlights their differences, with an optional side-by-side view. |
+| 06 | [Batch Text Replacer](Text-Processing-Projects/09-file-content-comparator.md) | Searches files in a directory and replaces matching text or regular expressions, with optional backups. |
+| 07 | [Text Summarizer](Text-Processing-Projects/10-text-report-generator.md) | Generates a concise summary of a text file by selecting the most relevant sentences. |
 
 </details>
 
@@ -80,16 +77,15 @@ Scripts for network diagnostics and monitoring.
 
 | # | Script | Description |
 |---|--------|-------------|
-| 01 | [Port Scanner](Networking-Projects/01-port-scanner.md) | Scans a host for open ports |
-| 02 | [Network Speed Tester](Networking-Projects/02-network-speed-tester.md) | Tests download/upload speed |
-| 03 | [IP Lookup Tool](Networking-Projects/03-ip-lookup-tool.md) | Fetches details about a given IP address |
-| 04 | [Website Uptime Checker](Networking-Projects/04-website-uptime-checker.md) | Checks if a website is up and reachable |
-| 05 | [Ping Sweep](Networking-Projects/05-ping-sweep.md) | Pings a range of IPs to find active hosts |
-| 06 | [DNS Lookup Tool](Networking-Projects/06-dns-lookup-tool.md) | Resolves domain names to IP addresses |
-| 07 | [Bandwidth Monitor](Networking-Projects/07-bandwidth-monitor.md) | Tracks network interface bandwidth usage |
-| 08 | [SSH Connection Manager](Networking-Projects/08-ssh-connection-manager.md) | Simplifies connecting to saved SSH hosts |
-| 09 | [Network Interface Reporter](Networking-Projects/09-network-interface-reporter.md) | Displays details of all network interfaces |
-| 10 | [Firewall Rule Checker](Networking-Projects/10-firewall-rule-checker.md) | Lists and verifies active firewall rules |
+| 01 | [IP Address Tracker](Networking-Projects/01-port-scanner.md) | Tracks public IP address changes and logs the IP, location, and ISP information. |
+| 02 | [Network Speed Tester](Networking-Projects/02-network-speed-tester.md) | Measures ping, download speed, and upload speed, then saves the results to a CSV history file. |
+| 03 | [DNS Lookup Utility](Networking-Projects/03-ip-lookup-tool.md) | Performs forward and reverse DNS lookups and displays the requested DNS records. |
+| 04 | [Ping Sweep Tool](Networking-Projects/04-website-uptime-checker.md) | Scans a local network to find active devices by sending a ping request to each IP address. |
+| 05 | [Website Availability Checker](Networking-Projects/05-ping-sweep.md) | Checks whether a website is available and displays its HTTP status code and response time. |
+| 06 | [Simple Load Balancer](Networking-Projects/06-dns-lookup-tool.md) | Distributes requests across multiple backend servers using a simple round-robin strategy. |
+| 07 | [Bandwidth Monitor](Networking-Projects/07-bandwidth-monitor.md) | Monitors network interface traffic and displays received and transmitted bandwidth usage in real time. |
+| 08 | [SSH Connection Manager](Networking-Projects/08-ssh-connection-manager.md) | Manages saved SSH servers and provides options to add, list, connect to, and delete server configurations. |
+| 09 | [Network Protocol Analyzer](Networking-Projects/09-network-interface-reporter.md) | Captures network traffic and identifies common protocols such as TCP, UDP, ICMP, and ARP. |
 
 </details>
 
