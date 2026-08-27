@@ -40,16 +40,16 @@ Scripts for monitoring and managing the system.
 
 | # | Script | Description |
 |---|--------|-------------|
-| 01 | [System Health Monitor](System-Administration-Projects/01-system-health-monitor.md) | Checks CPU, memory, and disk usage at a glance |
-| 02 | [Automated Backup Solution](System-Administration-Projects/02-automated-backup-solution.md) | Sends an alert when disk usage crosses a threshold |
-| 03 | [Log File Analyzer](System-Administration-Projects/03-log-file-analyzer.md) | Adds, removes, or updates system users |
-| 04 | [User Account Manager](System-Administration-Projects/04-user-account-manager.md) | Checks whether key services are running |
-| 05 | [Network Port Scanner](System-Administration-Projects/05-network-port-scanner.md) | Automates package updates and upgrades |
-| 06 | [Service Restart Automation](System-Administration-Projects/06-service-restart-automation.md) | Archives and rotates log files |
-| 07 | [Disk Usage Alerting System](System-Administration-Projects/07-disk-usage-alerting-system.md) | Finds and kills processes by name |
-| 08 | [Security Audit Tool](System-Administration-Projects/08-security-audit-tool.md) | Reports top memory-consuming processes |
-| 09 | [Software Update Manager](System-Administration-Projects/09-software-update-manager.md) | Lists, adds, or removes scheduled cron jobs |
-| 10 | [System Cleanup Utility](System-Administration-Projects/10-system-cleanup-utility.md) | Prints a quick summary of system specs |
+| 01 | [System Health Monitor](System-Administration-Projects/01-system-health-monitor.md) | Monitors CPU, memory, disk usage, and running processes against defined thresholds. |
+| 02 | [Automated Backup Solution](System-Administration-Projects/02-automated-backup-solution.md) | Creates full, partial, incremental, or differential backups with verification, logging, and retention. |
+| 03 | [Log File Analyzer](System-Administration-Projects/03-log-file-analyzer.md) | Analyzes log files to summarize errors, warnings, IP addresses, and security events. |
+| 04 | [User Account Manager](System-Administration-Projects/04-user-account-manager.md) | Manages Linux users, groups, passwords, account settings, and password policies. |
+| 05 | [Network Port Scanner](System-Administration-Projects/05-network-port-scanner.md) | Scans hosts for open ports and identifies common services running on them. |
+| 06 | [Service Restart Automation](System-Administration-Projects/06-service-restart-automation.md) | Automatically monitors system services and restarts them when they stop. |
+| 07 | [Disk Usage Alerting System](System-Administration-Projects/07-disk-usage-alerting-system.md) | Monitors disk usage and sends alerts when it exceeds a defined threshold. |
+| 08 | [Security Audit Tool](System-Administration-Projects/08-security-audit-tool.md) | Audits Linux security settings, accounts, SSH, firewall, ports, and system updates. |
+| 09 | [Software Update Manager](System-Administration-Projects/09-software-update-manager.md) | Checks for available system package updates and allows the user to install them automatically. |
+| 10 | [System Cleanup Utility](System-Administration-Projects/10-system-cleanup-utility.md) | Cleans unnecessary cache, temporary files, and old system logs to free disk space. |
 
 </details>
 
