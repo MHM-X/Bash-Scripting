@@ -1,6 +1,6 @@
 # 📂 Service Restart Automation
 ## Description
-Automatically monitors system services and restarts them when they stop.
+Automatically organizes files into categorized subfolders based on their file extensions.
 
 ## Code
 ```bash
@@ -127,30 +127,21 @@ send_notification() {
 
 
 # ---------- Main ----------
-
 main() {
 
     if [[ $EUID -ne 0 ]]; then
-
         echo "Error: This script must be run as root."
-
         exit 1
-
     fi
-
 
     log_message "Service monitor started."
 
-
     for service in "${SERVICES[@]}"; do
-
         monitor_service "$service" &
-
     done
-
 
     wait
 }
 
-
 main
+```
