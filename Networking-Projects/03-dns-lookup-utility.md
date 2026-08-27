@@ -1,6 +1,6 @@
 # 📂 DNS Lookup Utility
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
+A script to perform DNS lookups and display detailed results. Support various record types (A, MX, CNAME, etc.) and provide reverse DNS lookup functionality.
 
 ## Code
 ```bash
