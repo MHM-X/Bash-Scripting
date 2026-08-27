@@ -1,7 +1,6 @@
 # 📂 Simple Load Balancer
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
-
+A basic load balancer to distribute traffic among multiple servers. Implement different load-balancing algorithms (e.g., round-robin, least connections) and health checks.
 ## Code
 ```bash
 # Simple Load Balancer
