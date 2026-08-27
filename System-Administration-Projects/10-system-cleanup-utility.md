@@ -1,6 +1,6 @@
 # 📂 System Cleanup Utility
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
+A script to remove unnecessary files and free up space. Target temporary files, old logs, and cache folders. Implement safe cleanup practices.
 
 ## Code
 ```bash
