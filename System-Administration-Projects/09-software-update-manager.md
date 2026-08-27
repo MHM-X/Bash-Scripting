@@ -1,6 +1,6 @@
 # 📂 Software Update Manager
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
+A tool to keep track of and install software updates. Support multiple package managers and handle dependencies automatically.
 
 ## Code
 ```bash
