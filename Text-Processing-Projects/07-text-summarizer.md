@@ -1,6 +1,6 @@
 # 📂 Text summarizer
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
+A tool to create short summaries of longer text documents. Use natural language processing techniques to identify key sentences and main ideas.
 
 ## Code
 ```bash
