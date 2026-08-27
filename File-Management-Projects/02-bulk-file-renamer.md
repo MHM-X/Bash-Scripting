@@ -1,8 +1,8 @@
 # 📂 Bulk File Renamer
 
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
-
+ A tool to rename many files using patterns or rules. Let users specify naming conventions, add prefixes or suffixes, and use counters or dates in filenames.
+ 
 ## Code
 ```bash
 #!/usr/bin/env bash
