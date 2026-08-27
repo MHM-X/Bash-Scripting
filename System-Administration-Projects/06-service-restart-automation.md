@@ -1,6 +1,6 @@
 # 📂  Service Restart Automation
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
+A script to monitor and restart system services if they fail. Implement logging of restart attempts and a notification system for persistent issues.
 
 ## Code
 ```bash
