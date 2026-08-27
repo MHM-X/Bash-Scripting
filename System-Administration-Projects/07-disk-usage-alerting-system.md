@@ -1,6 +1,6 @@
 # 📂 Disk Usage Alerting System
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
+A program to alert admins when disk space runs low. Set customizable thresholds and send notifications via email or messaging platforms.
 
 ## Code
 ```bash
