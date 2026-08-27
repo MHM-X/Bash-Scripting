@@ -1,8 +1,7 @@
 # 📂 File Sync Utility
 
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
-
+A program to keep files in sync between two folders. Implement two-way synchronization and handle conflict resolution.
 ## Code
 ```bash
 #!/usr/bin/bash
