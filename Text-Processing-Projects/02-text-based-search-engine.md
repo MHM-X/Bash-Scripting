@@ -1,3 +1,9 @@
+# 📂 Text-based Search Engine
+## Description
+Automatically organizes files into categorized subfolders based on their file extensions.
+
+## Code
+```bash
 #!/bin/bash
 # Text-based Search Engine
 
@@ -103,3 +109,4 @@ find "$SEARCH_DIR" -type f -name "*.txt" | while read -r file; do
     fi
 
 done | sort -t'|' -k1,1nr
+```
