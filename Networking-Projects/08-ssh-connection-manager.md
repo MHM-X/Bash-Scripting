@@ -1,6 +1,6 @@
 # 📂 SSH Connection Manager
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
+A tool to manage and connect to many SSH servers easily. Store and organize connection details securely and support key-based authentication.
 
 ## Code
 ```bash
