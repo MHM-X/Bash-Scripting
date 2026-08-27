@@ -1,8 +1,7 @@
 # 📂 Archive Manager
 
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
-
+A script to create, extract, and manage archive files. It supports multiple archive formats and includes options for password protection.
 ## Code
 ```bash
 #!/usr/bin/bash
