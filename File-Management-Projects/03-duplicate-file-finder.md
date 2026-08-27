@@ -1,8 +1,7 @@
 # 📂 Duplicate File Finder
 
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
-
+A script to find and list duplicate files in a folder. Use file size and content comparison to spot duplicates and offer choices to delete or move them.
 ## Code
 ```bash
 #!/bin/bash
