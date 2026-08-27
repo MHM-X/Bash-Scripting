@@ -1,7 +1,6 @@
 # 📂 Bandwidth Usage Monitor
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
-
+A script to track and report on network bandwidth usage. Break down usage by application or user, and set up alerts for unusual activity.
 ## Code
 ```bash
 # Bandwidth Usage Monitor
