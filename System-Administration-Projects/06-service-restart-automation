@@ -1,8 +1,11 @@
 # 📂 Service Restart Automation
+
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
+
+Automatically monitors system services and restarts them when they stop.
 
 ## Code
+
 ```bash
 #!/bin/bash
 
@@ -127,6 +130,7 @@ send_notification() {
 
 
 # ---------- Main ----------
+
 main() {
 
     if [[ $EUID -ne 0 ]]; then
@@ -144,5 +148,4 @@ main() {
 }
 
 main
-
 ```
