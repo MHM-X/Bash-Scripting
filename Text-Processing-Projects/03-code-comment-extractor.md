@@ -1,6 +1,6 @@
 # 📂 Code Comment Extractor
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
+A script to pull out and display comments from source code files. Support multiple programming languages and different comment styles.
 
 ## Code
 ```bash
