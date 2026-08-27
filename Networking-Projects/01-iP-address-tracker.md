@@ -1,7 +1,6 @@
 # 📂 IP Address Tracker
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
-
+A script to log and track changes in your public IP address. Set up notifications for IP changes and maintain a history of past addresses. Include geolocation information for each IP.
 ## Code
 ```bash
 #!/bin/bash
