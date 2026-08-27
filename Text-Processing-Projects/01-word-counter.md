@@ -1,4 +1,4 @@
-# 📂 
+# 📂 Word Counter
 ## Description
 Automatically organizes files into categorized subfolders based on their file extensions.
 
