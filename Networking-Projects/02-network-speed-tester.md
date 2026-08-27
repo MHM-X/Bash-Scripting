@@ -1,7 +1,6 @@
 # 📂 Network Speed Test
 ## Description
-A basic server that allows many users to chat via the command line. Implement private messaging, chat rooms, and basic user authentication.
-
+A tool to measure and report on network download and upload speeds. Include options for scheduled tests and historical data tracking. Generate graphs of speed over time.
 ## Code
 ```bash
 #!/bin/bash
