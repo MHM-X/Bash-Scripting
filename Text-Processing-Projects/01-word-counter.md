@@ -1,7 +1,6 @@
 # 📂 Word Counter
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
-
+A tool to count words, lines, and characters in a text file. Include options for excluding certain words or patterns and handling multiple files.
 ## Code
 ```bash
 #!/bin/bash
