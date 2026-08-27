@@ -1,8 +1,7 @@
 # 📂 Version Control Helper
 
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
-
+A tool to simplify common version control tasks. Include functions for starting repositories, committing changes, and managing branches.
 ## Code
 ```bash
 #!/usr/bin/bash
