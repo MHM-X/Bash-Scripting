@@ -1,6 +1,6 @@
 # 📂 Ping Sweep Tool
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
+A program to check which IP addresses in a range are active. Allow customization of ping parameters and provide options for parallel scanning to improve speed.
 
 ## Code
 ```bash
