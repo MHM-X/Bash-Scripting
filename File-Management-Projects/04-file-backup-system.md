@@ -1,8 +1,7 @@
 # 📂 File Backup System
 
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
-
+ A program to back up important files to another place. Include options for full and partial backups, compression, and scheduling.
 ## Code
 ```bash
 #!/bin/bash
