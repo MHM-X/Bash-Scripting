@@ -21,15 +21,15 @@ Scripts for organizing, cleaning, and manipulating files and directories.
 | # | Script | Description |
 |---|--------|-------------|
 | 01 | [Automatic File Sorter](File-Management-Projects/01-automatic-file-sorter.md) | Organizes files into folders based on their extensions |
-| 02 | [Bulk File Renamer](File-Management-Projects/02-bulk-file-renamer.md) | Scans a directory and finds duplicate files |
-| 03 | [Duplicate File Finder](File-Management-Projects/03-duplicate-file-finder.md) | Creates timestamped backups of files/folders |
-| 04 | [File Backup System](File-Management-Projects/04-file-backup-system.md) | Sorts files into folders based on their extension |
-| 05 | [Disk Space Analyzer](File-Management-Projects/05-disk-space-analyzer.md) | Deletes files older than a given number of days |
-| 06 | [File Encryption Tool](File-Management-Projects/06-file-encryption-tool.md) | Compresses files/folders into archives |
-| 07 | [Version Control Helper](File-Management-Projects/07-version-control-helper.md) | Reports the size of each folder in a directory |
-| 08 | [File Sync Utility](File-Management-Projects/08-file-sync-utility.md) | Searches for files by name pattern and renames/moves them |
-| 09 | [Archive Manager](File-Management-Projects/09-archive-manager.md) | Lists files modified within the last N days |
-| 10 | [File Metadata Editor](File-Management-Projects/10-file-metadata-editor.md) | Batch-updates file/folder permissions |
+| 02 | [Bulk File Renamer](File-Management-Projects/02-bulk-file-renamer.md) | Renames files in bulk using prefixes, suffixes, counters, or dates. |
+| 03 | [Duplicate File Finder](File-Management-Projects/03-duplicate-file-finder.md) | Finds duplicate files by SHA-256 hash and lets you delete, move, skip, or inspect them. |
+| 04 | [File Backup System](File-Management-Projects/04-file-backup-system.md) | Creates full or incremental backups with optional compression and automatic cleanup. |
+| 05 | [Disk Space Analyzer](File-Management-Projects/05-disk-space-analyzer.md) | Analyzes disk space usage and displays the largest files and directories in a tree. |
+| 06 | [File Encryption Tool](File-Management-Projects/06-file-encryption-tool.md) | Encrypts and decrypts files securely using GnuPG and AES-256. |
+| 07 | [Version Control Helper](File-Management-Projects/07-version-control-helper.md) | Simplifies common Git operations like initialization, commits, branching, switching, and status checks. |
+| 08 | [File Sync Utility](File-Management-Projects/08-file-sync-utility.md) | Synchronizes files between two directories in both directions using rsync. |
+| 09 | [Archive Manager](File-Management-Projects/09-archive-manager.md) | Creates and extracts compressed archives with optional password protection using GPG. |
+| 10 | [File Metadata Editor](File-Management-Projects/10-file-metadata-editor.md) | Views and edits file metadata using ExifTool. |
 
 </details>
 
