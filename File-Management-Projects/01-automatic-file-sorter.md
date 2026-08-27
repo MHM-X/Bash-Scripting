@@ -1,7 +1,7 @@
 # 📂 Automatic File Sorter
 
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
+Automatically organizes files in a folder based on their types. The script should scan a directory, find file extensions, and move files into suitable subfolders (e.g., Documents, Images, Videos).
 
 ## Code
 ```bash
