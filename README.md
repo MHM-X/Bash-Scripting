@@ -93,46 +93,6 @@ Scripts for network diagnostics and monitoring.
 
 </details>
 
-<details>
-<summary><h3>🤖 Automation Projects</h3></summary>
-
-Scripts that automate repetitive tasks.
-
-| # | Script | Description |
-|---|--------|-------------|
-| 01 | [Automated Backup Scheduler](Automation-Projects/01-automated-backup-scheduler.md) | Schedules recurring backups automatically |
-| 02 | [Email Notification Script](Automation-Projects/02-email-notification-script.md) | Sends email alerts on specific events |
-| 03 | [Auto Deployment Script](Automation-Projects/03-auto-deployment-script.md) | Automates pulling and deploying code updates |
-| 04 | [Task Scheduler Wrapper](Automation-Projects/04-task-scheduler-wrapper.md) | Simplifies creating and managing cron tasks |
-| 05 | [Auto Update Checker](Automation-Projects/05-auto-update-checker.md) | Checks for and applies available updates |
-| 06 | [File Sync Automation](Automation-Projects/06-file-sync-automation.md) | Keeps two directories automatically in sync |
-| 07 | [Report Generator Automation](Automation-Projects/07-report-generator-automation.md) | Automatically builds and emails periodic reports |
-| 08 | [Auto Cleanup Script](Automation-Projects/08-auto-cleanup-script.md) | Automatically clears temp files and caches |
-| 09 | [Batch Job Runner](Automation-Projects/09-batch-job-runner.md) | Runs a queue of jobs/scripts in sequence |
-| 10 | [Automated Testing Script](Automation-Projects/10-automated-testing-script.md) | Runs a set of test scripts and reports results |
-
-</details>
-
-<details>
-<summary><h3>🧰 Utility Projects</h3></summary>
-
-Small, handy tools for everyday tasks.
-
-| # | Script | Description |
-|---|--------|-------------|
-| 01 | [Password Generator](Utility-Projects/01-password-generator.md) | Generates strong random passwords |
-| 02 | [Unit Converter](Utility-Projects/02-unit-converter.md) | Converts between common units (length, weight, etc.) |
-| 03 | [Weather CLI Tool](Utility-Projects/03-weather-cli-tool.md) | Fetches current weather from the terminal |
-| 04 | [Simple Calculator](Utility-Projects/04-simple-calculator.md) | Performs basic arithmetic from the command line |
-| 05 | [To-Do List Manager](Utility-Projects/05-to-do-list-manager.md) | Adds, lists, and removes tasks from a to-do file |
-| 06 | [Countdown Timer](Utility-Projects/06-countdown-timer.md) | Counts down from a set time with alerts |
-| 07 | [QR Code Generator](Utility-Projects/07-qr-code-generator.md) | Generates a QR code from text/input |
-| 08 | [System Notifier](Utility-Projects/08-system-notifier.md) | Sends desktop notifications from scripts |
-| 09 | [Random Quote Generator](Utility-Projects/09-random-quote-generator.md) | Displays a random quote from a list |
-| 10 | [Interactive Menu Tool](Utility-Projects/10-interactive-menu-tool.md) | A simple menu-driven interface for running tasks |
-
-</details>
-
 ---
 
 <p align="center">
