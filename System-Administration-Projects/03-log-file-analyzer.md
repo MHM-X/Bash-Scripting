@@ -1,6 +1,6 @@
 # 📂 Log File Analyzer
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
+A program to read and summarize system log files. Identify patterns, errors, and security issues. Generate reports and visualizations of log data.
 
 ## Code
 ```bash
