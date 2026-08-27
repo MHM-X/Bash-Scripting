@@ -1,7 +1,7 @@
 <h1 align="center">🐚 Bash Scripting Journey</h1>
 
 <p align="center">
-  <strong>A hands-on collection of 60 Bash scripts</strong><br>
+  <strong>A hands-on collection of +30 Bash scripts</strong><br>
   Written while sharpening Linux and automation skills on the path to Cloud DevOps.
 </p>
 
