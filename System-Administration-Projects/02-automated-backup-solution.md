@@ -1,7 +1,7 @@
 # 📂 Automated Backup Solution
 
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
+A tool for scheduled backups of system and user data. Include options for full, partial, and different backups. Implement retention policies and backup verification.
 
 ## Code
 ```bash
