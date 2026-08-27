@@ -1,11 +1,8 @@
 # 📂 Service Restart Automation
-
 ## Description
-
 Automatically monitors system services and restarts them when they stop.
 
 ## Code
-
 ```bash
 #!/bin/bash
 
@@ -134,18 +131,26 @@ send_notification() {
 main() {
 
     if [[ $EUID -ne 0 ]]; then
+
         echo "Error: This script must be run as root."
+
         exit 1
+
     fi
+
 
     log_message "Service monitor started."
 
+
     for service in "${SERVICES[@]}"; do
+
         monitor_service "$service" &
+
     done
+
 
     wait
 }
 
+
 main
-```
