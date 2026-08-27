@@ -1,8 +1,7 @@
 # 📂 Disk Space Analyzer
 
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
-
+A tool to show which folders and files use the most space. Create a tree-like structure to display disk usage and offer options to sort and filter results.
 ## Code
 ```bash
 #!/usr/bin/env bash
