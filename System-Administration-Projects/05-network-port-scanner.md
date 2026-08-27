@@ -1,6 +1,6 @@
 # 📂 Network Port Scanner
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
+A tool to scan and report on open network ports. Allow scanning of IP ranges, identify services running on ports, and detect potential security issues.
 
 ## Code
 ```bash
