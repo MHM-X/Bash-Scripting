@@ -1,6 +1,6 @@
 # 📂 System Health Monitor
 ## Description
-Automatically organizes files into categorized subfolders based on their file extensions.
+A script to check and report on system resources and health. Monitor CPU usage, memory use, disk space, and running processes. Generate alerts for abnormal conditions.
 
 ## Code
 ```bash
